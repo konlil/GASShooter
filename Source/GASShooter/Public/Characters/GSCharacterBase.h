@@ -12,6 +12,7 @@
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FCharacterDiedDelegate, AGSCharacterBase*, Character);
 
+
 USTRUCT(BlueprintType)
 struct GASSHOOTER_API FGSDamageNumber
 {
