@@ -79,3 +79,4 @@ DerivedDataCache/*
 # Rider user specific files
 .idea/
 /PakOutput
+/enc_temp_folder
